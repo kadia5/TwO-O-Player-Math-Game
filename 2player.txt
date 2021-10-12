@@ -1,0 +1,23 @@
+Nouns for classes:
+
+1)Player
+-class one player 1 info
+-give answers
+-stores points
+ player2
+ player 2 info
+-give answers
+-stores points
+
+3)new turn
+-stores lvls or turns
+-contains game loop every other is next persons turn
+
+4)current player class
+-manages current player
+
+
+5)game over + winner class
+loads goodbye msg
+
+= both need public name method an score method
